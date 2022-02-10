@@ -36,4 +36,5 @@ print("Product of two arrays is:",result)
 ![](n1.png)
 
 ## RESULT:
+Thus the above program is executed successfully...
 
